@@ -1,0 +1,15 @@
+{
+  "name": "orbit-db-channelstore",
+  "version": "0.0.1",
+  "description": "State Channel primitive for OrbitDB",
+  "main": "src/ChannelStore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haad",
+  "license": "MIT",
+  "dependencies": {
+    "orbit-db-store": "~2.0.1"
+  },
+  "devDependencies": {}
+}
